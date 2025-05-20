@@ -47,7 +47,7 @@ A modern inventory management application built with Flutter, designed for small
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/inventory_ease.git
+   git clone https://github.com/jordydave/inventory_ease.git
    ```
 
 2. Navigate to the project directory:
