@@ -34,7 +34,7 @@ final ThemeData inventoryEaseTheme = ThemeData(
     elevation: 2,
     scrolledUnderElevation: 2,
   ),
-  cardTheme: const CardTheme(
+  cardTheme: const CardThemeData(
     elevation: 4,
     margin: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
   ),
